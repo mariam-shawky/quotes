@@ -1,0 +1,16 @@
+body{
+
+    font-family: 'Fondamento', cursive;
+}
+
+header{
+
+background-image:linear-gradient(to top left, #503047 , #C05746 ) ;
+height: 100vh;
+
+}
+
+h1{
+    font-size: 48px;
+}
+
